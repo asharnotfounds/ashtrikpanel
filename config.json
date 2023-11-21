@@ -1,0 +1,10 @@
+{
+    "database" : {
+        "host" : "127.0.0.1",
+        "user" : "fluffyacid",
+        "password" : "t9xVMLX5mccEqLF!",
+        "database" : "ashtrik_panel"
+    },
+    "secretKey" : "secretKey!",
+    "port" : "3000"
+}
